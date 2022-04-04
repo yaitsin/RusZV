@@ -9,3 +9,9 @@
 # Пример 
 
 ![primer](https://user-images.githubusercontent.com/77837414/161499497-0c416791-e1f5-45a8-876a-e217fe28da90.png)
+
+
+# Устаноvка
+Скачиvаем архиv
+![Снимок экрана 2022-04-04 105911](https://user-images.githubusercontent.com/77837414/161499888-130c8280-1b52-4d4d-a459-a16133fec15a.png)
+
