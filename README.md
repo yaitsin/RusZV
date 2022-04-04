@@ -7,4 +7,5 @@
 
 
 # Пример 
-[image](https://user-images.githubusercontent.com/77837414/161499191-83c7c9c7-f960-4fb5-be83-33e4585f613e.png)
+
+![primer](https://user-images.githubusercontent.com/77837414/161499497-0c416791-e1f5-45a8-876a-e217fe28da90.png)
